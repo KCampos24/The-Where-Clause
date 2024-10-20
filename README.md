@@ -7,7 +7,6 @@ Welcome to my SQL Learning Repository on Filtering! This repository focuses on h
 
 - Retrieve specific data based on filtering criteria
 - Optimize queries to focus only on necessary data
-- Combine the <code>WHERE</code> clause with logical operators like <code>AND</code>, <code>OR</code>, and <code>NOT</code> for complex filtering
 
 <h2>Languages and Utilities Used</h2>
 
