@@ -1,7 +1,5 @@
 <h1>SQL Filtering with the WHERE Clause</h1>
 
-### [YouTube Demonstration](https://youtu.be/your_youtube_link_here)
-
 <h2>Description</h2>
 Welcome to my SQL Learning Repository on Filtering! This repository focuses on how to filter data using the SQL <code>WHERE</code> clause. It showcases various examples of how to:
 
@@ -42,4 +40,4 @@ A specific machine labeled as 'South-109' needs investigation. Using the <code>W
 Every machine in the south building has 'South' in its name. Using a wildcard operator (<code>%</code>) along with the <code>WHERE</code> clause allows me to display all relevant entries, e.g., <code>WHERE office LIKE 'South%'</code>.</p>
 
 <h2>Conclusion</h2>
-The <code>WHERE</code> clause is an essential part of SQL for filtering data, optimizing queries, maintaining data integrity, constructing complex queries, and securing information. Mastering it allows you to retrieve and manipulate data effectively.
+The <code>WHERE</code> clause is an essential part of SQL for filtering data, optimizing queries, maintaining data integrity, constructing complex queries, and securing information. Mastering it will allow analysts to retrieve and manipulate data effectively.
